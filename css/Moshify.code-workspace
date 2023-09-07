@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/Moshify/code/Moshify/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Moshify"
+	}
+}

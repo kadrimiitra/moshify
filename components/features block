@@ -1,0 +1,82 @@
+<section class="block container">
+  <header class="block__header">
+    <h2>Host on the cloud to keep growing</h2>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, eveniet!
+    </p>
+  </header>
+  <article class="grid grid--1x2 feature">
+    <div class="feature__content">
+      <span class="icon-container">
+        <svg class="icon icon--primary">
+          <use xlink:href="images/sprite.svg#easy"></use>
+        </svg>
+      </span>
+      <h3 class="feature__heading">Super easy to use</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, non.
+      </p>
+      <a href="#" class="link-arrow">Learn more</a>
+    </div>
+    <picture>
+      <source
+        type="image/webp"
+        srcset="images/easy1x.webp 1x, images/easy2x.webp 2x" />
+      <source
+        type="image/jpg"
+        srcset="images/easy1x.jpg 1x, images/easy2x.jpg 2x" />
+      <img class="feature__image" src="images/easy2x.jpg" alt=""
+    /></picture>
+  </article>
+</section>
+
+<section class="block container">
+  <article class="grid grid--1x2 feature">
+    <div class="feature__content">
+      <span class="icon-container">
+        <svg class="icon icon--primary">
+          <use xlink:href="images/sprite.svg#easy"></use>
+        </svg>
+      </span>
+      <h3 class="feature__heading">Super easy to use</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, non.
+      </p>
+      <a href="#" class="link-arrow">Learn more</a>
+    </div>
+    <picture>
+      <source
+        type="image/webp"
+        srcset="images/easy1x.webp 1x, images/easy2x.webp 2x" />
+      <source
+        type="image/jpg"
+        srcset="images/easy1x.jpg 1x, images/easy2x.jpg 2x" />
+      <img class="feature__image" src="images/easy2x.jpg" alt=""
+    /></picture>
+  </article>
+</section>
+<section class="block container">
+  <article class="grid grid--1x2 feature">
+    <div class="feature__content">
+      <span class="icon-container">
+        <svg class="icon icon--primary">
+          <use xlink:href="images/sprite.svg#easy"></use>
+        </svg>
+      </span>
+      <h3 class="feature__heading">Super easy to use</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, non.
+      </p>
+      <a href="#" class="link-arrow">Learn more</a>
+    </div>
+    <picture>
+      <source
+        type="image/webp"
+        srcset="images/easy1x.webp 1x, images/easy2x.webp 2x" />
+      <source
+        type="image/jpg"
+        srcset="images/easy1x.jpg 1x, images/easy2x.jpg 2x" />
+      <img class="feature__image" src="images/easy2x.jpg" alt=""
+    /></picture>
+  </article>
+</section>
